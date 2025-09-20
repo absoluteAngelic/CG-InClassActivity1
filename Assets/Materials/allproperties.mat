@@ -35,9 +35,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _myFloat: 0.5
-    - _myRange: 1
+    - _myRange: 0
     m_Colors:
-    - _myColor: {r: 0, g: 0, b: 0, a: 1}
+    - _myColor: {r: 1, g: 1, b: 1, a: 1}
     - _myVector: {r: 0.5, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
