@@ -1,6 +1,6 @@
 # CG-InClassActivity1
 
-All screenshots are in the [Screenshots](https://github.com/absoluteAngelic/CG-InClassActivity1/Screenshots) folder
+All screenshots are in the [Screenshots]([https://github.com/absoluteAngelic/CG-InClassActivity1/Screenshots](https://github.com/absoluteAngelic/CG-InClassActivity1/tree/main/Screenshots)) folder
 
 I made a multiuv shader that can apply multiple uvs onto an object, updated it so that it responds to the camera angle and position, made a shader that can reflect from a cubemap, a shader that reacts to the object moving through space, and a shader that uses all available properties of the shader to alter its appearance.
 
